@@ -10,3 +10,9 @@
 def addition(a, b):
   return a + b
 ```
+
+## We are trying to make a check list
+
+- [ ] Faire mes devoirs
+- [ ] Aller a la salle
+- [ ] Regarder Cars
